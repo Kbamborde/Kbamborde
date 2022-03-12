@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kunal Bamborde
+# 👋 Hi, I’m @Kunal Bamborde
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Front End Projects
