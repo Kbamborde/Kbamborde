@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Kunal Bamborde
 ### 👀 I’m interested in Full Stack Web Development
-### 🌱 I’m currently learning MERN Stack
+### 🌱 I’m currently learning MERN Stack and Data Structures and Algorithms
 ### 💞️ I’m looking to collaborate on Front End Projects
 ### 📫 You can reach me on Kunalbamborde00@gmail.com
 
